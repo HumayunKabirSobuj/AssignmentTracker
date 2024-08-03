@@ -1,0 +1,203 @@
+
+
+[
+    {
+        "name": "Mathematics",
+        "description": "Comprehensive solutions for algebra, calculus, geometry, and more.",
+        "image": "https://i.ibb.co/8N5HysH/mathematics.jpg",
+        "price": 20.00,
+        "delivery_time": "2 days",
+        "category": "Homework"
+    },
+    {
+        "name": "Physics",
+        "description": "Detailed explanations and solutions for mechanics, thermodynamics, and electromagnetism.",
+        "image": "https://i.ibb.co/FBVvDnW/physics.jpg",
+        "price": 25.00,
+        "delivery_time": "3 days",
+        "category": "Homework"
+    },
+    {
+        "name": "Chemistry",
+        "description": "In-depth solutions for organic, inorganic, and physical chemistry problems.",
+        "image": "https://i.ibb.co/JQHh0KL/chemistry.jpg",
+        "price": 22.00,
+        "delivery_time": "2 days",
+        "category": "Homework"
+    },
+    {
+        "name": "Biology",
+        "description": "Expert solutions for cell biology, genetics, and human anatomy.",
+        "image": "https://i.ibb.co/dPVnhK5/biology-1.jpg",
+        "price": 18.00,
+        "delivery_time": "2 days",
+        "category": "Homework"
+    },
+    {
+        "name": "English",
+        "description": "Assistance with essays, comprehension, grammar, and more.",
+        "image": "https://i.ibb.co/MNGs9WP/english.jpg",
+        "price": 15.00,
+        "delivery_time": "1 day",
+        "category": "Homework"
+    },
+    {
+        "name": "History",
+        "description": "In-depth analysis of historical events, timelines, and figures.",
+        "image": "https://i.ibb.co/F8JgpP9/history.jpg",
+        "price": 19.00,
+        "delivery_time": "2 days",
+        "category": "Homework"
+    },
+    {
+        "name": "Geography",
+        "description": "Solutions for physical and human geography topics.",
+        "image": "https://i.ibb.co/h8CXQwt/geography.jpg",
+        "price": 21.00,
+        "delivery_time": "2 days",
+        "category": "Homework"
+    },
+    {
+        "name": "Economics",
+        "description": "Comprehensive help with microeconomics, macroeconomics, and econometrics.",
+        "image": "https://i.ibb.co/QQyg6rs/economics.jpg",
+        "price": 24.00,
+        "delivery_time": "3 days",
+        "category": "Homework"
+    },
+    {
+        "name": "Computer Science",
+        "description": "Assistance with programming, algorithms, and data structures.",
+        "image": "https://i.ibb.co/SvCRBKx/computer-Science.jpg",
+        "price": 30.00,
+        "delivery_time": "3 days",
+        "category": "Homework"
+    },
+    {
+        "name": "Engineering",
+        "description": "Solutions for mechanical, electrical, and civil engineering problems.",
+        "image": "https://i.ibb.co/ys27XgK/engineering.jpg",
+        "price": 35.00,
+        "delivery_time": "4 days",
+        "category": "Homework"
+    },
+    {
+        "name": "Art",
+        "description": "Help with art history, techniques, and creative assignments.",
+        "image": "https://i.ibb.co/cxf7W3m/art.jpg",
+        "price": 17.00,
+        "delivery_time": "2 days",
+        "category": "Homework"
+    },
+    {
+        "name": "Music",
+        "description": "Assistance with music theory, history, and composition.",
+        "image": "https://i.ibb.co/wKYcKwN/music.jpg",
+        "price": 20.00,
+        "delivery_time": "3 days",
+        "category": "Homework"
+    },
+
+
+
+    {
+        "name": "General Knowledge",
+        "description": "Test your general knowledge across various subjects and topics.",
+        "image": "https://i.ibb.co/P1yX4R6/General-Knowledge.jpg",
+        "price": 10.00,
+        "delivery_time": "1 day",
+        "category": "Quizzes"
+    },
+    {
+        "name": "Science",
+        "description": "Quizzes covering physics, chemistry, biology, and more.",
+        "image": "https://i.ibb.co/rp2vHWP/Science-1.jpg",
+        "price": 12.00,
+        "delivery_time": "1 day",
+        "category": "Quizzes"
+    },
+    {
+        "name": "History",
+        "description": "Challenge your knowledge of historical events, figures, and timelines.",
+        "image": "https://i.ibb.co/WyLKVSr/History-1.jpg",
+        "price": 11.00,
+        "delivery_time": "1 day",
+        "category": "Quizzes"
+    },
+    {
+        "name": "Geography",
+        "description": "Quizzes on physical and human geography topics.",
+        "image": "https://i.ibb.co/XDv6YnZ/Geography.jpg",
+        "price": 13.00,
+        "delivery_time": "1 day",
+        "category": "Quizzes"
+    },
+
+
+
+    {
+        "name": "Math",
+        "description": "Quizzes covering algebra, geometry, calculus, and more.",
+        "image": "https://i.ibb.co/8N5HysH/mathematics.jpg",
+        "price": 14.00,
+        "delivery_time": "1 day",
+        "category": "Quizzes"
+    },
+    {
+        "name": "Literature",
+        "description": "Quizzes on classic and modern literature, authors, and literary devices.",
+        "image": "https://i.ibb.co/vXrFFnD/Literature-1.jpg",
+        "price": 12.00,
+        "delivery_time": "1 day",
+        "category": "Quizzes"
+    },
+    {
+        "name": "Music",
+        "description": "Test your knowledge of music theory, history, and famous compositions.",
+        "image": "https://i.ibb.co/wKYcKwN/music.jpg",
+        "price": 11.00,
+        "delivery_time": "1 day",
+        "category": "Quizzes"
+    },
+    {
+        "name": "Sports",
+        "description": "Quizzes on various sports, athletes, and sporting events.",
+        "image": "https://i.ibb.co/cTT74G1/Sports.jpg",
+        "price": 10.00,
+        "delivery_time": "1 day",
+        "category": "Quizzes"
+    },
+    {
+        "name": "Movies",
+        "description": "Challenge your knowledge of movies, directors, and famous scenes.",
+        "image": "https://i.ibb.co/h9WRHtn/Movies-1.jpg",
+        "price": 10.00,
+        "delivery_time": "1 day",
+        "category": "Quizzes"
+    },
+    {
+        "name": "Technology",
+        "description": "Quizzes on tech history, gadgets, and influential tech companies.",
+        "image": "https://i.ibb.co/K99P6kv/Technology.jpg",
+        "price": 15.00,
+        "delivery_time": "1 day",
+        "category": "Quizzes"
+    },
+    {
+        "name": "Language",
+        "description": "Test your knowledge of grammar, vocabulary, and language trivia.",
+        "image": "https://i.ibb.co/g9TYgsD/Language-1.jpg",
+        "price": 12.00,
+        "delivery_time": "1 day",
+        "category": "Quizzes"
+    },
+    {
+        "name": "Art",
+        "description": "Quizzes on art history, famous artists, and artistic techniques.",
+        "image": "https://i.ibb.co/cxf7W3m/art.jpg",
+        "price": 14.00,
+        "delivery_time": "1 day",
+        "category": "Quizzes"
+    }
+    
+]
