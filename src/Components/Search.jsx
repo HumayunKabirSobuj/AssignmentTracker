@@ -14,7 +14,7 @@ const Search = () => {
         <div>
             <div className=" flex justify-center my-10">
                 <form className=" flex w-2/3 input input-bordered px-0" onSubmit={handleSubmit}>
-                    <input type="text" placeholder="Search By Name" name="input" className="input input-bordered w-full " />
+                    <input type="text" name="input" className="input input-bordered w-full " />
                     <button type="submit" className="btn btn-primary">Search</button>
                 </form>
             </div>
